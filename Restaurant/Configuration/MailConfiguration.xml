@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Emails>
+  <Email>
+    <Name>Kelner</Name>
+    <Host>smtp.gmail.com</Host>
+    <Port>587</Port>
+    <UserName>MetapackApp@gmail.com</UserName>
+    <Password>MetapackApp1</Password>
+    <Timeout>10000</Timeout>
+  </Email>
+  <Email>
+    <Name>Kucharz</Name>
+    <Host>smtp.gmail.com</Host>
+    <Port>587</Port>
+    <UserName>MetapackApp@gmail.com</UserName>
+    <Password>MetapackApp1</Password>
+    <Timeout>10000</Timeout>
+  </Email>
+</Emails>
